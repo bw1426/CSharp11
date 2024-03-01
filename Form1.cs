@@ -13,7 +13,7 @@ namespace listyRozwijalne
     public partial class Form1 : Form
     {
         public Form1()
-        {
+        {//rrrrr
             InitializeComponent();
             ComboBox ob=new ComboBox();
             ob.Items.AddRange(new object[]
